@@ -2,6 +2,8 @@
 
 Environnement de test virtuel développé en Python et Pygame pour le BlueBoat. Il permet de valider les algorithmes de navigation et d'évitement d'obstacles avant leur déploiement sur le bateau réel.
 
+![Simulateur BlueBoat dans le port de Monaco](docs/simulator.jpg)
+
 ## Contexte
 
 Projet d'Ingénierie en Équipe (PIE) « Bateau IA » de l'ENSTA Paris (Groupe 25, 2025-2026), mené avec l'association TAMEO pour le Monaco Energy Boat Challenge 2026. Ce dépôt contient le simulateur de navigation développé dans ce cadre.
